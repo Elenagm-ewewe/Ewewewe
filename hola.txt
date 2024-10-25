@@ -1,5 +1,11 @@
 hola, hola
+<<<<<<< HEAD
 hola, hola, caracola, pesicolahola, hola, caracola, pesicola
 que pasa
 Viva España
 AMEGO SIGARROOOOO
+=======
+hola, hola, caracola, pesicola
+jajajajajaj
+tu tener dinero amego
+>>>>>>> b8d93fb86f137f58ad4418002b5e85976ee72758
